@@ -1,7 +1,8 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
+baseUrl = 'https://gitslim.github.io/blog/'
+languageCode = 'ru-ru'
 title = 'My New Hugo Site'
 theme = 'ananke'
-publishDir = 'docs'
-baseUrl = 'https://gitslim.github.io/blog/'
-
+publishDir = 'public'
+MetaDataFormat = "toml"
+paginate = 9
+copyright = "© 2017 PPAP blog powered by Hugo"
